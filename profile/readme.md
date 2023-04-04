@@ -16,3 +16,6 @@ Answer 1
 
 Answer 2
 
+### How do I generate a README.md file?
+
+Use a tool like [https://readme.so/editor](https://readme.so/editor) to generate structured README files to provide a high-level overview of your repository, it's audience, and how it should be used. 
