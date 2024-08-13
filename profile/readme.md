@@ -10,7 +10,7 @@ A collection of GitHub Repositories owned and managed by the ServiceNow Australi
 
 #### How do I gain access?
 
-Send an email, or a Teams Message, to [Sam Herring](mailto://sherring@deloitte.com.au) and he'll provision you access. If he's not available, or ignoring you, escalate to Cameron Douglas-Savage.
+Send an email, or a Teams Message, to [Steph Zylstra](mailto://szylstra@deloitte.com.au) and she'll provision you access. If she's not available, please contact Cameron Douglas-Savage.
 
 #### How do I use this?
 
