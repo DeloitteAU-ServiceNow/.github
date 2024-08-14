@@ -10,7 +10,11 @@ A collection of GitHub Repositories owned and managed by the ServiceNow Australi
 
 #### How do I gain access?
 
-Send an email, or a Teams Message, to [Steph Zylstra](mailto://szylstra@deloitte.com.au) and she'll provision you access. If she's not available, please contact Cameron Douglas-Savage.
+Please send an email or Teams message to one of the following people to get access. If you already have a GitHub account you'd like to use, please include that in the message, otherwise we'll invite you through your Deloitte email.
+- Steph Zylstra (szylstra@deloitte.com.au)
+- James Taylor (jtaylor2@deloitte.com.au)
+- Smriti Wadhawa (swadhawa@deloitte.com.au)
+- Doug Schairer (dschairer@deloitte.com.au)
 
 #### How do I use this?
 
